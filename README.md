@@ -1,11 +1,12 @@
 # chatgpt-service是一个gpt对话服务
 
-##chatgpt流式服务
+chatgpt流式服务
     https://github.com/silencesmile/chatgpt-websocket
 
 ## 安装
 
-###Python版本
+### Python版本
+
     3.8及以上
 
 使用 pip 进行安装模块
@@ -16,14 +17,14 @@
 
     API_KEY = "**********************"
 
-## 运行
+### 运行
 
     python3 app.py
     
     或后台启动
     nohup python3 app.py >/dev/null 2>&1 &
 
-##参数说明
+### 参数说明
 
 *****请求参数*****
 
@@ -84,7 +85,7 @@
         }
     }
 
-##赞助
+## 赞助
 
 如果你觉得这个项目对你有帮助，并且情况允许的话，可以给我一点点支持，总之非常感谢支持～
 
@@ -93,6 +94,7 @@
 
 支付宝
 ![Alipay](../../../Desktop/Snip20230421_34.png)
-###License
+
+### License
 
 公众号 © 阿三先生
