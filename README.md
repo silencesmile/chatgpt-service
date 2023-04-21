@@ -1,7 +1,8 @@
 # chatgpt-service是一个gpt对话服务
 
-chatgpt流式服务
-    https://github.com/silencesmile/chatgpt-websocket
+chatgpt流式服务：https://github.com/silencesmile/chatgpt-websocket
+    
+文章说明：https://mp.weixin.qq.com/s/CuaNtOzkB0da4Cc7dD85Xg
 
 ## 安装
 
